@@ -4,7 +4,7 @@
   <groupId>com.restfb</groupId>
   <artifactId>restfb</artifactId>
   <packaging>jar</packaging>
-  <name>RestFB</name>
+  <name> ru.ac.uniyar.Maletskiy</name>
   <version>3.0.0</version>
   <description>RestFB is a simple and flexible Facebook Graph API client written in Java.</description>
   <url>http://restfb.com</url>
